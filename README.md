@@ -1,2 +1,1 @@
-# gitskills
-nothing important
+Createing a new branch is quick and easy.
