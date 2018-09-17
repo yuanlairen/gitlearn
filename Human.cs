@@ -7,5 +7,7 @@ public class Human
     public int Age {get;set;}
 
     public string Desc{get;set;}
+
+    public bool? Gender{get;set;}
 }
 
