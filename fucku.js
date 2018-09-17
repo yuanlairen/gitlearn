@@ -1,5 +1,5 @@
 function fuckyou()
 {
-   alert('this is a fuckfunc.')
+   alert('this is a fuckfunc.')//nothing
 
 }
